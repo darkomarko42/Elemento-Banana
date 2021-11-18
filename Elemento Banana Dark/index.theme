@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Elemento Banana Dark
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Elemento Banana Dark
+MetacityTheme=Elemento Banana Dark
+IconTheme=Luna-Dark
+CursorTheme=Luna
+CursorSize=24
