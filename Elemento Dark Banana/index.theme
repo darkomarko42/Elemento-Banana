@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Elemento Banana
+Name=Elemento Dark Banana
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Elemento Banana
-MetacityTheme=Elemento Banana
-IconTheme=Marwaita-Light
+GtkTheme=Elemento Dark Banana
+MetacityTheme=Elemento Dark Banana
+IconTheme=Marwaita-Dark
 CursorTheme=Marwaita
 CursorSize=24
